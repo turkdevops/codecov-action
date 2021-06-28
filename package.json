@@ -24,7 +24,7 @@
   "homepage": "https://github.com/codecov/codecov-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@actions/exec": "^1.0.4",
+    "@actions/exec": "^1.1.0",
     "@types/jest": "^26.0.23",
     "@zeit/ncc": "^0.22.3",
     "fs": "0.0.1-security",
